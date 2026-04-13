@@ -48,7 +48,10 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&bg_color=000000&color=ffffff&line=0077ff&point=4400ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
+
+  <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&bg_color=000000&color=ffffff&line=0077ff&point=4400ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
+
+</p>
 
 ---
 
