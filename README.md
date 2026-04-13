@@ -19,7 +19,8 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/xSatyendra/xSatyendra/main/assets/coding.gif" width="100%" />
+      <img src="https://assets2.lottiefiles.com/packages/lf20_w51pcehl.json" style="display:none;" />
+      <img src="https://cdn.pixabay.com/animation/2022/11/07/09/20/09-20-41-118_512.gif" width="100%" />
     </td>
   </tr>
 </table>
