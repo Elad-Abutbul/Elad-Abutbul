@@ -1,3 +1,12 @@
+
+### 👋 A Little About Me
+I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+
+- 🎓 **Current Status:** 2nd Year Computer Science Student.
+- 🚀 **Goal:** Looking for my first foot in the door where I can learn from the best and start contributing from day one.
+- 💡 **Mindset:** Clean code, smart solutions, and staying adaptable to whatever tech stack comes my way.
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=5bcdec&secondaryColor=ffffff&text=Elad%20Abutbul&desc=Software%20Developer&animation=scaleIn&descAlign=50&descSize=49&textBg=false&reversal=false&rotate=0&descAlignY=65&fontAlign=50&fontAlignY=41&section=header" />
 </p>
@@ -10,14 +19,7 @@
 
 ---
 
-### 👋 A Little About Me
-I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
 
-- 🎓 **Current Status:** 2nd Year Computer Science Student.
-- 🚀 **Goal:** Looking for my first foot in the door where I can learn from the best and start contributing from day one.
-- 💡 **Mindset:** Clean code, smart solutions, and staying adaptable to whatever tech stack comes my way.
-
----
 
 ### 📈 Activity Graph
 <p align="center">
