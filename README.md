@@ -4,30 +4,21 @@
 
 ---
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
-    <tr style="border: none; background-color: transparent;">
-      <td width="65%" valign="middle" style="border: none; background-color: transparent; padding-right: 20px;">
-        <h3 align="left">A Little About Me</h3>
-        <p align="left">
-          I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
-        </p>
-        <p align="left">
-          Currently, I am a member of the <b><a href="https://github.com/ColmanDevClubORG">ColmanDevClub</a></b>, where we are developing a dedicated application for patients at <b>Shamir Medical Center (Assaf Harofeh)</b>.
-        </p>
-        <ul align="left">
-          <li><b>Current Status:</b> 2nd Year Computer Science Student.</li>
-          <li><b>Club Activity:</b> Developer at <b><a href="https://github.com/ColmanDevClubORG">ColmanDevClub</a></b> – Building healthcare solutions.</li>
-          <li><b>Mindset:</b> Clean code, smart solutions, and staying adaptable.</li>
-          <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/">Let's talk on LinkedIn!</a> <img src="Linkdin animation.gif" width="35" align="absmiddle"></li>
-        </ul>
-      </td>
-      <td width="35%" valign="middle" style="border: none; background-color: transparent;">
-        <img src="Hand coding-bro.svg" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
+
+<img src="Hand coding-bro.svg" align="right" width="320" style="margin-left: 20px;">
+
+### A Little About Me
+I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+
+Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevClubORG)**, where we are developing a dedicated application for patients at **Shamir Medical Center (Assaf Harofeh)**.
+
+* **Current Status:** 2nd Year Computer Science Student.
+* **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
+* **Mindset:** Clean code, smart solutions, and staying adaptable.
+* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/) <img src="Linkdin animation.gif" width="30" align="absmiddle">
+
+<br clear="right"/>
 
 ---
 
