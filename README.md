@@ -1,7 +1,7 @@
 # 🚀 Elad Abutbul | Computer Science Student
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0052cc&height=150&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="left">
@@ -37,18 +37,18 @@
 
 ### 📊 Github Metrics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Elad-Abutbul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Elad's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elad-Abutbul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elad-Abutbul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elad-Abutbul&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
