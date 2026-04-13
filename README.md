@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=0000ff&secondaryColor=0000ff&text=Elad%20Abutbul&desc=Software%20Developer&animation=scaleIn&descAlign=50&descSize=49&textBg=false&reversal=false&rotate=0&descAlignY=65&fontAlign=50&fontAlignY=41&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=1e66cc&secondaryColor=1e66cc&text=Elad%20Abutbul&desc=Software%20Developer&animation=scaleIn&descAlign=50&descSize=49&textBg=false&reversal=false&rotate=0&descAlignY=65&fontAlign=50&fontAlignY=41&section=header" />
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/-elad-abutbul/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&secondaryColor=0000ff&height=80&width=350&text=LinkedIn%20Profile&fontSize=35&textBg=false&fontAlignY=50&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e66cc&secondaryColor=1e66cc&height=80&width=350&text=LinkedIn%20Profile&fontSize=35&textBg=false&fontAlignY=50&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
 </a>
 </p>
 
