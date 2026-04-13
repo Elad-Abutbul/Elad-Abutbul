@@ -1,4 +1,4 @@
-# 🚀 Elad Abutbul | Computer Science Student
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Elad%20Abutbul&desc=Softwer%20Developer&animation=scaleIn&descAlign=50&descSize=49&textBg=false&reversal=false&rotate=0&stroke=0ff00&descAlignY=65&fontAlign=50&fontAlignY=41&section=header&strokeWidth=0" />
