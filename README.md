@@ -4,9 +4,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="60%" valign="top" style="border: none;">
       <h3>A Little About Me</h3>
       I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
       <br><br>
@@ -18,8 +18,8 @@
         <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a></li>
       </ul>
     </td>
-  <td width="40%" align="center" valign="middle">
-      <img src="Hand coding-bro.svg" width="100%" />
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/coding.gif" width="100%" />
     </td>
   </tr>
 </table>
