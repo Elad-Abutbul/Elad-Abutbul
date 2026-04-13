@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Elad%20Abutbul&desc=Softwer%20Developer&animation=scaleIn&descAlign=50&descSize=49&textBg=false&reversal=false&rotate=0&stroke=0ff00&descAlignY=65&fontAlign=50&fontAlignY=41&section=header&strokeWidth=0" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=0077ff&secondaryColor=5bcdec&text=Elad%20Abutbul&desc=Software%20Developer&animation=scaleIn&descAlign=50&descSize=49&textBg=false&reversal=false&rotate=0&descAlignY=65&fontAlign=50&fontAlignY=41&section=header" />
 </p>
 
 <p align="center">
@@ -47,11 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Elad-Abutbul&show_icons=true&bg_color=0d1117&hide_border=true&title_color=5bcdec&text_color=ffffff&icon_color=5bcdec" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elad-Abutbul&layout=compact&bg_color=0d1117&hide_border=true&title_color=5bcdec&text_color=ffffff&icon_color=5bcdec" />
-</p>
-
----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elad-Abutbul&layout=compact&bg_color=0d1117&hide_border=true&title_color=5bcdec&text_color=ffffff&icon_color=5bcdec" />
 </p>
