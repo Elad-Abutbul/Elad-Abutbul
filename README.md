@@ -1,39 +1,58 @@
-# Elad Abutbul 👋
+# 🚀 Elad Abutbul | Computer Science Student
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Computer%20Science%20Student&fontSize=50&animation=fadeIn" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" />
 </p>
 
-## ⚡ Quick Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Languages" />
-</p>
-
----
-
-## 🛠 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,javascript,react,git,linux,windows,mysql" />
+<p align="left">
+<a href="https://www.linkedin.com/in/-elad-abutbul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📈 Activity Graph (Animated)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyonight&area=true" width="100%" />
+### 💻 About Me
+- 🎓 **Education:** 2nd Year Computer Science Student.
+- 🛠️ **Focus:** Building scalable web applications and solving complex algorithmic problems.
+- 🔍 **Seeking:** Software Engineering / Full Stack Developer positions.
+
+---
+
+### 🛠 Tech Stack
+**Frontend & Styling**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mui" />
+</p>
+
+**Backend & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
+</p>
+
+**Languages & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,docker,git" />
 </p>
 
 ---
 
-## 💻 About Me
-- 🎓 **Academic:** 2nd Year Computer Science Student.
----
-
+### 📊 Github Metrics
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Elad's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
