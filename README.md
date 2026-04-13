@@ -22,7 +22,7 @@ I'm Elad, a 2nd-year Computer Science student with a huge passion for building t
 ###  Tech Stack
 **Frontend & Styling**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mui" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui" />
 </p>
 
 **Backend & Database**
