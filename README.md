@@ -10,7 +10,7 @@ I'm Elad, a 2nd-year Computer Science student with a huge passion for building t
 - 🎓 **Current Status:** 2nd Year Computer Science Student.
 - 🚀 **Goal:** Looking for my first foot in the door where I can learn from the best and start contributing from day one.
 - 💡 **Mindset:** Clean code, smart solutions, and staying adaptable to whatever tech stack comes my way.
-- 🔗 **Connect:** <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a>
+- <img src="https://simpleicons.org/icons/linkedin.svg" width="16" height="16" style="vertical-align: middle;" /> **Connect:** <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a>
 
 ---
 
