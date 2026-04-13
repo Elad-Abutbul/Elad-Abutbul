@@ -40,10 +40,7 @@
 
 ---
 
-### 📊 Github Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elad-Abutbul&show_icons=true&bg_color=0d1117&hide_border=true&title_color=5bcdec&text_color=ffffff&icon_color=5bcdec" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Elad-Abutbul&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elad-Abutbul&layout=compact&bg_color=0d1117&hide_border=true&title_color=5bcdec&text_color=ffffff&icon_color=5bcdec" />
