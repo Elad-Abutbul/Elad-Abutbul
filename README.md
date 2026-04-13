@@ -14,7 +14,7 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
 * **Current Status:** 2nd Year Computer Science Student.
 * **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
 * **Mindset:** Clean code, smart solutions, and staying adaptable.
-* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/) <img src="Linkdin animation.gif" width="22" align="absmiddle">
+* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/) <img src="Linkdin animation.gif" width="45" align="absmiddle">
 
 <br clear="right"/>
 
