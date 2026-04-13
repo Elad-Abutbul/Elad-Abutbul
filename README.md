@@ -48,7 +48,7 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&theme=GitHub&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
