@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=129&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=77&animation=scaleIn&descSize=30&fontSize=55&fontAlignY=41&textBg=false" />
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/-elad-abutbul/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=415aa5&secondaryColor=415aa5&height=80&width=350&text=LinkedIn%20Profile&fontSize=35&textBg=false&fontAlignY=50&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
-</a>
-</p>
-
 ---
 
 ### 👋 A Little About Me
