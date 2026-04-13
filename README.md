@@ -1,7 +1,7 @@
 # 🚀 Elad Abutbul | Computer Science Student
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0052cc&height=150&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=5bcdec&height=150&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="left">
@@ -14,6 +14,13 @@
 - 🎓 **Education:** 2nd Year Computer Science Student.
 - 🛠️ **Focus:** Building scalable web applications and solving complex algorithmic problems.
 - 🔍 **Seeking:** Software Engineering / Full Stack Developer positions.
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
@@ -37,24 +44,15 @@
 
 ### 📊 Github Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elad-Abutbul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elad-Abutbul&show_icons=true&bg_color=0d1117&hide_border=true&title_color=5bcdec&text_color=ffffff&icon_color=5bcdec" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elad-Abutbul&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-
-  <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&bg_color=000000&color=ffffff&line=0077ff&point=4400ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elad-Abutbul&layout=compact&bg_color=0d1117&hide_border=true&title_color=5bcdec&text_color=ffffff&icon_color=5bcdec" />
 </p>
 
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Elad-Abutbul&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Elad-Abutbul&label=Profile%20Views&color=5bcdec&style=flat-square" />
 </p>
