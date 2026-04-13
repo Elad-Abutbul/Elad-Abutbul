@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=129&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=77&animation=scaleIn&descSize=30&fontSize=55&fontAlignY=41&textBg=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=129&color=5bcdec&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=77&animation=scaleIn&descSize=30&fontSize=55&fontAlignY=41&textBg=false">
-    <img alt="Elad Abutbul Header" src="https://capsule-render.vercel.app/api?type=venom&height=129&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=77&animation=scaleIn&descSize=30&fontSize=55&fontAlignY=41&textBg=false">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=1e66cc&secondaryColor=1e66cc&text=Elad%20Abutbul&desc=Software%20Developer&animation=scaleIn&descAlign=50&descSize=49&textBg=false&reversal=false&rotate=0&descAlignY=65&fontAlign=50&fontAlignY=41&section=header" />
 </p>
 
 <p align="center">
