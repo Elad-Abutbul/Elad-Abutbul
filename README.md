@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="Hand coding-bro.svg" align="right" width="320" style="margin-left: 20px;">
+<img src="Hand coding-bro.svg" align="right" width="350" style="margin-left: 20px;">
 
 ### A Little About Me
 I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
@@ -16,7 +16,7 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
 * **Current Status:** 2nd Year Computer Science Student.
 * **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
 * **Mindset:** Clean code, smart solutions, and staying adaptable.
-* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/) <img src="Linkdin animation.gif" width="30" align="absmiddle">
+* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/) <img src="Linkdin animation.gif" width="45" align="absmiddle">
 
 <br clear="right"/>
 
