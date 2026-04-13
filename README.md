@@ -19,15 +19,6 @@ I'm Elad, a 2nd-year Computer Science student with a huge passion for building t
 
 ---
 
-
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
 ### 🛠 Tech Stack
 **Frontend & Styling**
 <p align="center">
@@ -45,6 +36,15 @@ I'm Elad, a 2nd-year Computer Science student with a huge passion for building t
 </p>
 
 ---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+
 
 ### 📊 Github Metrics
 <p align="center">
