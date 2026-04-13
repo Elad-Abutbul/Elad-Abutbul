@@ -21,7 +21,7 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
       <b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a>
     </td>
     <td style="border: none; background: transparent; padding: 0; padding-left: 5px;">
-      <img src="Linkdin animation.gif" width="32" style="display: block; padding:0px">
+      <img src="Linkdin animation.gif" width="45" style="display: block; padding:0px">
     </td>
   </tr>
 </table>
