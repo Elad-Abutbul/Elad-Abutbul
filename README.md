@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=75&animation=scaleIn&descSize=25&fontSize=45&fontAlignY=41&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=130&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=75&animation=scaleIn&descSize=25&fontSize=45&fontAlignY=41&textBg=false" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="Hand coding-bro.svg" align="right" width="250" style="margin-left: 20px;">
+  <img src="Hand coding-bro.svg" align="right" width="300" style="margin-left: 20px;">
   
   <div align="left">
     <h3>A Little About Me</h3>
@@ -19,7 +19,7 @@
       <li><b>Current Status:</b> 2nd Year Computer Science Student.</li>
       <li><b>Club Activity:</b> Developer at <b>ColmanDevClub</b>.</li>
       <li><b>Mindset:</b> Clean code, smart solutions, and staying adaptable.</li>
-      <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/">Let's talk on LinkedIn!</a> <img src="Linkdin animation.gif" width="35" align="absmiddle"></li>
+      <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/">Let's talk on LinkedIn!</a> <img src="Linkdin animation.gif" width="42" align="absmiddle"></li>
     </ul>
   </div>
 </div>
