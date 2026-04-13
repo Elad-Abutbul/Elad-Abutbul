@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=77&animation=scaleIn&descSize=20&fontSize=35&fontAlignY=41&textBg=false" />
-</p>
-
----
-
 ### A Little About Me
-I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code,   I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+
+Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevClubORG)**, where we are developing a dedicated application for patients at **Shamir Medical Center (Assaf Harofeh)**.
 
 -  **Current Status:** 2nd Year Computer Science Student.
+-  **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
 -  **Mindset:** Clean code, smart solutions, and staying adaptable to whatever tech stack comes my way.
 -  **Connect:** <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a>
 
