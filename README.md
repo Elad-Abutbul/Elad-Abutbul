@@ -18,9 +18,8 @@
         <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a></li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://assets2.lottiefiles.com/packages/lf20_w51pcehl.json" style="display:none;" />
-      <img src="https://cdn.pixabay.com/animation/2022/11/07/09/20/09-20-41-118_512.gif" width="100%" />
+  <td width="40%" align="center" valign="middle">
+      <img src="Hand coding-bro.svg" width="100%" />
     </td>
   </tr>
 </table>
