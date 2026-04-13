@@ -4,16 +4,18 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/-elad-abutbul/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5bcdec&secondaryColor=ffffff&height=80&width=350&text=LinkedIn%20Profile&fontSize=35&textBg=false&fontAlignY=50&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
 </a>
 </p>
 
 ---
 
-### 💻 About Me
-- 🎓 **Education:** 2nd Year Computer Science Student.
-- 🛠️ **Focus:** Building scalable software, web applications, and solving complex algorithmic problems.
-- 🔍 **Seeking:** Software Engineering / Full Stack Developer positions.
+### 👋 A Little About Me
+I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+
+- 🎓 **Current Status:** 2nd Year Computer Science Student.
+- 🚀 **Goal:** Looking for my first foot in the door where I can learn from the best and start contributing from day one.
+- 💡 **Mindset:** Clean code, smart solutions, and staying adaptable to whatever tech stack comes my way.
 
 ---
 
