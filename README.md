@@ -13,14 +13,13 @@ I'm Elad, a 2nd-year Computer Science student with a huge passion for building t
 
 ---
 
-### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 **Frontend & Styling**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mui" />
@@ -38,7 +37,6 @@ I'm Elad, a 2nd-year Computer Science student with a huge passion for building t
 
 ---
 
-### 📊 Github Metrics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Elad-Abutbul&theme=dark&background=0d1117&hide_border=true&ring=5bcdec&fire=5bcdec&currStreakLabel=5bcdec" alt="GitHub Streak" />
 </p>
