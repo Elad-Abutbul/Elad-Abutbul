@@ -1,28 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=130&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=75&animation=scaleIn&descSize=25&fontSize=45&fontAlignY=41&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=75&animation=scaleIn&descSize=25&fontSize=40&fontAlignY=41&textBg=false" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="Hand coding-bro.svg" align="right" width="300" style="margin-left: 20px;">
-  
-  <div align="left">
-    <h3>A Little About Me</h3>
-    <p>
-      I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
-    </p>
-    <p>
-      Currently, I am a member of the <b><a href="https://github.com/ColmanDevClubORG">ColmanDevClub</a></b>, where we are developing a dedicated application for patients at <b>Shamir Medical Center (Assaf Harofeh)</b>.
-    </p>
-    <ul>
-      <li><b>Current Status:</b> 2nd Year Computer Science Student.</li>
-      <li><b>Club Activity:</b> Developer at <b>ColmanDevClub</b>.</li>
-      <li><b>Mindset:</b> Clean code, smart solutions, and staying adaptable.</li>
-      <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/">Let's talk on LinkedIn!</a> <img src="Linkdin animation.gif" width="42" align="absmiddle"></li>
-    </ul>
-  </div>
-</div>
+<br>
+
+<img src="Hand coding-bro.svg" align="right" width="350" style="margin-left: 20px;">
+
+### A Little About Me
+I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+
+Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevClubORG)**, where we are developing a dedicated application for patients at **Shamir Medical Center (Assaf Harofeh)**.
+
+* **Current Status:** 2nd Year Computer Science Student.
+* **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
+* **Mindset:** Clean code, smart solutions, and staying adaptable.
+* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/) <img src="Linkdin animation.gif" width="30" align="absmiddle">
 
 <br clear="right"/>
 
@@ -35,14 +29,25 @@
 ---
 
 ### Tech Stack
+**Frontend & Styling**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui,nodejs,express,mongodb,mongoose,c,cpp,java,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui" />
+</p>
+
+**Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
+</p>
+
+**Languages & Infrastructure**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,docker,git" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Elad-Abutbul&theme=dark&background=0d1117&hide_border=true&ring=5bcdec&fire=5bcdec&currStreakLabel=5bcdec" width="600" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Elad-Abutbul&theme=dark&background=0d1117&hide_border=true&ring=5bcdec&fire=5bcdec&currStreakLabel=5bcdec" alt="GitHub Streak" />
 </p>
 
 ---
