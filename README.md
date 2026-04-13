@@ -5,10 +5,9 @@
 ---
 
 ### 👋 A Little About Me
-I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code,   I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
 
 - 🎓 **Current Status:** 2nd Year Computer Science Student.
-- 🚀 **Goal:** Looking for my first foot in the door where I can learn from the best and start contributing from day one.
 - 💡 **Mindset:** Clean code, smart solutions, and staying adaptable to whatever tech stack comes my way.
 - 🔗 **Connect:** <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a>
 
