@@ -4,25 +4,19 @@
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="60%" valign="top" style="border: none;">
-      <h3>A Little About Me</h3>
-      I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
-      <br><br>
-      Currently, I am a member of the <b><a href="https://github.com/ColmanDevClubORG">ColmanDevClub</a></b>, where we are developing a dedicated application for patients at <b>Shamir Medical Center (Assaf Harofeh)</b>.
-      <ul>
-        <li><b>Current Status:</b> 2nd Year Computer Science Student.</li>
-        <li><b>Club Activity:</b> Developer at ColmanDevClub – Building healthcare solutions.</li>
-        <li><b>Mindset:</b> Clean code, smart solutions, and staying adaptable.</li>
-        <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/coding.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="Hand coding-bro.svg" align="right" width="35%" />
+
+### A Little About Me
+I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+
+Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevClubORG)**, where we are developing a dedicated application for patients at **Shamir Medical Center (Assaf Harofeh)**.
+
+* **Current Status:** 2nd Year Computer Science Student.
+* **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
+* **Mindset:** Clean code, smart solutions, and staying adaptable.
+* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/)
+
+<br clear="right"/>
 
 ---
 
