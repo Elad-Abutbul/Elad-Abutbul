@@ -4,7 +4,7 @@
 
 ---
 ### A Little About Me
-I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution, full-time adventure seeker. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
 
 Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevClubORG)**, where we are developing a dedicated application for patients at **Shamir Medical Center (Assaf Harofeh)**.
 
