@@ -44,7 +44,7 @@
 
 ### 📊 Github Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elad-Abutbul&show_icons=true&bg_color=0d1117&hide_border=true&title_color=5bcdec&text_color=ffffff&icon_color=5bcdec" />
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Elad-Abutbul=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 <p align="center">
