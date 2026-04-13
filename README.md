@@ -15,13 +15,13 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
 * **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
 * **Mindset:** Clean code, smart solutions, and staying adaptable.
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; background: transparent; padding: 0;">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="middle">
       <b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a>
     </td>
-    <td style="border: none; background: transparent; padding: 0; padding-left: 5px;">
-      <img src="Linkdin animation.gif" width="45" style="display: block; padding:0px">
+    <td valign="middle" style="padding-left: 8px;">
+      <img src="Linkdin animation.gif" width="22" align="absmiddle">
     </td>
   </tr>
 </table>
