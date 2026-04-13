@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=75&animation=scaleIn&descSize=20&fontSize=35&fontAlignY=41&textBg=false" />
 </p>
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 ---
 ### A Little About Me
