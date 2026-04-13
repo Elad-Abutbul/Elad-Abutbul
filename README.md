@@ -29,7 +29,7 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
 ### Tech Stack
 **Frontend & Styling**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui,linkdin" />
 </p>
 
 **Backend & Database**
