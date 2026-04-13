@@ -1,6 +1,5 @@
-## Hi there 👋
+##Hi 👋, I'm Elad Abutbul
 
-<h1 align="center">Hi 👋, I'm Elad Abutbul</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
