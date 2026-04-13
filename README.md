@@ -18,8 +18,8 @@
         <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a></li>
       </ul>
     </td>
- <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/AdityaPriyadarshi/AdityaPriyadarshi/blob/main/assets/coding.gif?raw=true" width="100%" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/xSatyendra/xSatyendra/main/assets/coding.gif" width="100%" />
     </td>
   </tr>
 </table>
