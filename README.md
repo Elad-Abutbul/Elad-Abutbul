@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/-elad-abutbul/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5bcdec&secondaryColor=ffffff&height=80&width=350&text=LinkedIn%20Profile&fontSize=35&textBg=false&fontAlignY=50&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5bcdec&secondaryColor=ffffff&height=80&width=350&text=LinkedIn%20Profile&fontSize=35&textBg=false&fontAlignY=50&animation=blinking&stroke=ffffff&strokeWidth=1" />
 </a>
 </p>
 
