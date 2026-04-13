@@ -1,4 +1,4 @@
-# 🚀 [YOUR_USERNAME]'s Lab
+# Elad Abutbul 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Computer%20Science%20Student&fontSize=50&animation=fadeIn" />
