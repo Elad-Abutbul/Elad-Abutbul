@@ -44,7 +44,9 @@
 
 ### 📊 Github Metrics
 <p align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Elad-Abutbul=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elad-Abutbul)](https://github.com/Elad-Abutbul/github-readme-stats)" />
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elad-Abutbul&commits_year=2023)" />
+  
 </p>
 
 <p align="center">
