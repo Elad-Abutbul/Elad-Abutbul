@@ -1,18 +1,28 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=75&animation=scaleIn&descSize=20&fontSize=35&fontAlignY=41&textBg=false" />
 </p>
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 ---
-### A Little About Me
-I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution, full-time adventure seeker. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
 
-Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevClubORG)**, where we are developing a dedicated application for patients at **Shamir Medical Center (Assaf Harofeh)**.
-
--  **Current Status:** 2nd Year Computer Science Student.
--  **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
--  **Mindset:** Clean code, smart solutions, and staying adaptable to whatever tech stack comes my way.
--  **Connect:** <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>A Little About Me</h3>
+      I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+      <br><br>
+      Currently, I am a member of the <b><a href="https://github.com/ColmanDevClubORG">ColmanDevClub</a></b>, where we are developing a dedicated application for patients at <b>Shamir Medical Center (Assaf Harofeh)</b>.
+      <ul>
+        <li><b>Current Status:</b> 2nd Year Computer Science Student.</li>
+        <li><b>Club Activity:</b> Developer at ColmanDevClub – Building healthcare solutions.</li>
+        <li><b>Mindset:</b> Clean code, smart solutions, and staying adaptable.</li>
+        <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">Let's talk on LinkedIn!</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="Programming.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -22,7 +32,7 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
 
 ---
 
-###  Tech Stack
+### Tech Stack
 **Frontend & Styling**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui" />
