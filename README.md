@@ -1,10 +1,10 @@
 # 🚀 Elad Abutbul | Computer Science Student
 
-<p align="left">
-  <img src="[https://capsule-render.vercel.app/api?type=soft&color=5bcdec&height=150&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Elad%20Abutbul&desc=Softwer%20Developer&animation=scaleIn&descAlign=50&descSize=49&textBg=false&reversal=false&rotate=0&stroke=0ff00&descAlignY=65&fontAlign=50&fontAlignY=41&section=header&strokeWidth=0)" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Elad%20Abutbul&desc=Softwer%20Developer&animation=scaleIn&descAlign=50&descSize=49&textBg=false&reversal=false&rotate=0&stroke=0ff00&descAlignY=65&fontAlign=50&fontAlignY=41&section=header&strokeWidth=0" />
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/-elad-abutbul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -12,7 +12,7 @@
 
 ### 💻 About Me
 - 🎓 **Education:** 2nd Year Computer Science Student.
-- 🛠️ **Focus:** Building scalable web applications and solving complex algorithmic problems.
+- 🛠️ **Focus:** Building scalable software, web applications, and solving complex algorithmic problems.
 - 🔍 **Seeking:** Software Engineering / Full Stack Developer positions.
 
 ---
@@ -26,17 +26,17 @@
 
 ### 🛠 Tech Stack
 **Frontend & Styling**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mui" />
 </p>
 
 **Backend & Database**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
 </p>
 
 **Languages & Infrastructure**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,docker,git" />
 </p>
 
