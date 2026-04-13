@@ -5,9 +5,9 @@
 ---
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; background: transparent;">
-    <tr style="border: none; background: transparent;">
-      <td width="65%" valign="middle" style="border: none; background: transparent; padding-right: 20px;">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
+    <tr style="border: none; background-color: transparent;">
+      <td width="65%" valign="middle" style="border: none; background-color: transparent; padding-right: 20px;">
         <h3 align="left">A Little About Me</h3>
         <p align="left">
           I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
@@ -22,7 +22,7 @@
           <li><b>Connect:</b> <a href="https://www.linkedin.com/in/-elad-abutbul/">Let's talk on LinkedIn!</a> <img src="Linkdin animation.gif" width="35" align="absmiddle"></li>
         </ul>
       </td>
-      <td width="35%" valign="middle" style="border: none; background: transparent;">
+      <td width="35%" valign="middle" style="border: none; background-color: transparent;">
         <img src="Hand coding-bro.svg" width="100%" />
       </td>
     </tr>
