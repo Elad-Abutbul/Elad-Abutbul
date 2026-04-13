@@ -37,22 +37,22 @@
 
 ### 📊 Github Metrics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[Elad-Abutbul]&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Elad's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Elad-Abutbul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Elad's Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Elad-Abutbul]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elad-Abutbul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Elad-Abutbul]&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elad-Abutbul&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=[Elad-Abutbul]&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Elad-Abutbul&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
