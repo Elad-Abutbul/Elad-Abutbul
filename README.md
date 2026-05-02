@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=75&animation=scaleIn&descSize=25&fontSize=40&fontAlignY=41&textBg=false" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28"/>
-  </a>
-</p>
-
 ---
 
 <br>
@@ -15,18 +9,22 @@
 <img src="Hand coding-bro.svg" align="right" width="350" style="margin-left: 20px;">
 
 ### A Little About Me
-I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work. I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution. I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
 
-Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevClubORG)**, where we are developing a dedicated application for patients at **Shamir Medical Center (Assaf Harofeh)**.
+I'm Elad, a 2nd-year Computer Science student with a huge passion for building things that actually work.
+I don't just write code; I love the challenge of taking a complex problem and breaking it down into a clean, efficient solution.
+
+I'm a fast learner, constantly diving into new technologies, and always hungry for the next challenge.
+
+Currently, I am a member of the **<a href="https://github.com/ColmanDevClubORG" target="_blank" rel="noopener noreferrer">ColmanDevClub</a>**, where we are developing a dedicated application for patients at **Shamir Medical Center (Assaf Harofeh)**.
 
 * **Current Status:** 2nd Year Computer Science Student.
-* **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
+* **Club Activity:** Developer at **<a href="https://github.com/ColmanDevClubORG" target="_blank" rel="noopener noreferrer">ColmanDevClub</a>** – Building healthcare solutions.
 * **Mindset:** Clean code, smart solutions, and staying adaptable.
 * **Connect:** 
-<a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">
+<a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank" rel="noopener noreferrer">
   Let's talk on LinkedIn!
+  <img src="Linkdin animation.gif" width="42" align="absmiddle">
 </a>
-<img src="Linkdin animation.gif" width="42" align="absmiddle">
 
 <br clear="right"/>
 
@@ -38,89 +36,24 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
 
 ---
 
-# Tech Stack
+### Tech Stack
 
-## Frontend & Styling
+**Frontend & Styling**
+
 <p align="center">
-
-<a href="https://react.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" />
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ts" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" />
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</a>
-
-<a href="https://mui.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mui" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui" />
 </p>
 
----
+**Backend & Database**
 
-## Backend & Database
 <p align="center">
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=express" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</a>
-
-<a href="https://mongoosejs.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongoose" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
 </p>
 
----
+**Languages & Infrastructure**
 
-## Languages & Infrastructure
 <p align="center">
-
-<a href="https://en.cppreference.com/w/c" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" />
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" />
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,docker,git" />
 </p>
 
 ---
