@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=75&animation=scaleIn&descSize=25&fontSize=40&fontAlignY=41&textBg=false" />
 </p>
 
-<h3 align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28"/>
   </a>
-</h3>
+</p>
 
 ---
 
@@ -22,7 +22,11 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
 * **Current Status:** 2nd Year Computer Science Student.
 * **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
 * **Mindset:** Clean code, smart solutions, and staying adaptable.
-* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/)
+* **Connect:** 
+<a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">
+  Let's talk on LinkedIn!
+</a>
+<img src="Linkdin animation.gif" width="42" align="absmiddle">
 
 <br clear="right"/>
 
