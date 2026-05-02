@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=415aa5&text=Elad%20Abutbul&desc=Software%20Developer&descAlignY=75&animation=scaleIn&descSize=25&fontSize=40&fontAlignY=41&textBg=false" />
 </p>
 
+<h3 align="center">
+  <a href="https://www.linkedin.com/in/-elad-abutbul/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
+  </a>
+</h3>
+
 ---
 
 <br>
@@ -16,7 +22,7 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
 * **Current Status:** 2nd Year Computer Science Student.
 * **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
 * **Mindset:** Clean code, smart solutions, and staying adaptable.
-* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/) <img src="Linkdin animation.gif" width="42" align="absmiddle">
+* **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/)
 
 <br clear="right"/>
 
@@ -28,20 +34,89 @@ Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevCl
 
 ---
 
-### Tech Stack
-**Frontend & Styling**
+# Tech Stack
+
+## Frontend & Styling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui" />
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+
+<a href="https://mui.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mui" />
+</a>
+
 </p>
 
-**Backend & Database**
+---
+
+## Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://mongoosejs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongoose" />
+</a>
+
 </p>
 
-**Languages & Infrastructure**
+---
+
+## Languages & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,docker,git" />
+
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" />
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
 </p>
 
 ---
