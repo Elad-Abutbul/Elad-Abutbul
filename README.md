@@ -14,7 +14,7 @@ I'm Elad, a 3nd-year Computer Science student with a huge passion for building t
 
 Currently, I am a member of the **[ColmanDevClub](https://github.com/ColmanDevClubORG)**, where we are developing a dedicated application for patients at **Shamir Medical Center (Assaf Harofeh)**.
 
-* **Current Status:** 2nd Year Computer Science Student.
+* **Current Status:** 3nd Year Computer Science Student.
 * **Club Activity:** Developer at **[ColmanDevClub](https://github.com/ColmanDevClubORG)** – Building healthcare solutions.
 * **Mindset:** Clean code, smart solutions, and staying adaptable.
 * **Connect:** [Let's talk on LinkedIn!](https://www.linkedin.com/in/-elad-abutbul/) <img src="Linkdin animation.gif" width="42" align="absmiddle">
